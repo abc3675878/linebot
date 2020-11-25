@@ -4,4 +4,4 @@
 
 Line ID : @997tlerc
 
-![image](https://github.com/abc3675878/line-bot/blob/main/qrcode.png)
+![image](https://github.com/abc3675878/linebot/blob/master/qrcode.png)
